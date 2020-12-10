@@ -1,0 +1,16 @@
+body {
+  background: #FFDD90;
+}
+
+.nav-link {
+  cursor: pointer;
+
+  &:hover {
+    color: #ff9900;
+  }
+  
+}
+
+.nav-pills .nav-link.active {
+  background-color: #ff9900;
+}
